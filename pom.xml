@@ -27,7 +27,7 @@
         <surefire-plugin.version>2.22.1</surefire-plugin.version>
 
         <woodstox.version>6.0.3</woodstox.version>
-        <xmlsec.version>2.1.4</xmlsec.version>
+        <xmlsec.version>2.1.7</xmlsec.version>
 
         <infinispan.version>9.4.19.Final</infinispan.version>
         <auto-service.version>1.0-rc6</auto-service.version>
